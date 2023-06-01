@@ -7,3 +7,6 @@
 2023-05-31 11:38:09njzhenghou.TestLog.main(TestLog.java:16) TestLog.java DEBUG 除数是：3
 2023-05-31 11:38:09njzhenghou.TestLog.main(TestLog.java:19) TestLog.java ERROR 0
 2023-05-31 11:38:09njzhenghou.TestLog.main(TestLog.java:20) TestLog.java DEBUG 商是：0
+2023-06-01 08:59:07njzhenghou.TestLog.main(TestLog.java:13) TestLog.java DEBUG 被除数是：10
+2023-06-01 08:59:08njzhenghou.TestLog.main(TestLog.java:16) TestLog.java DEBUG 除数是：2
+2023-06-01 08:59:08njzhenghou.TestLog.main(TestLog.java:19) TestLog.java DEBUG 商是：5

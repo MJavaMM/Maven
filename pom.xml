@@ -3,8 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>Maven</artifactId>
-  <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+    <modules>
+        <module>Day01</module>
+    </modules>
+    <version>1.0-SNAPSHOT</version>
   <name>Maven Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
