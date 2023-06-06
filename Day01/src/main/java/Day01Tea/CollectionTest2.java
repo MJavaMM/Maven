@@ -24,9 +24,23 @@ public class CollectionTest2 {
         }*/
 
         //容易错误的方法二   //重复输出第一个值
-        while ((coll.iterator().hasNext())){
+        /*while ((coll.iterator().hasNext())){
             System.out.println(coll.iterator().next());
+        }*/
+
+
+        /*正确的迭代器遍历*/
+        /*Iterator iterator = coll.iterator();
+        while(iterator.hasNext()){
+            Object next = iterator.next();
+            System.out.println(next);
+        }*/
+
+        /*增强for循环遍历*/
+        for (Object co : coll) {
+            System.out.println(co);
         }
+
 
     }
 }
