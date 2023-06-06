@@ -28,6 +28,7 @@ public class CollectionTest {
         //迭代器输出数组中的内容
         Iterator it = coll.iterator();
         while(it.hasNext()){
+
             System.out.println(it.next());
         }
 
