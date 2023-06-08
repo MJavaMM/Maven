@@ -1,9 +1,9 @@
 package Day01Ex;
 
 public class SuperPackage extends ServicePackage implements CallService,SendService,NetService{
-    public int talkTime;
-    public int smsCount;
-    public int flow;
+    public int talkTime=200;
+    public int smsCount=50;
+    public int flow=1;
     //public double price;  继承父类中的方法
     public void showInfo(){}   //重写父类中的方法
 

@@ -55,9 +55,9 @@ public class TestFileCopy2 {
         while((len=bis.read(buffer))!=-1){
             bos.write(buffer,0,len);
         }
-      /*  fis.close();
+   /*  fis.close();
         fos.close();
-        bis.close();*/
+        bis   .close();*/
         bos.close();
 
     }

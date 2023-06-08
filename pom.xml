@@ -9,6 +9,8 @@
         <module>Day02</module>
         <module>Day03</module>
         <module>Day04</module>
+        <module>Exam</module>
+        <module>Day05</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
   <name>Maven Maven Webapp</name>

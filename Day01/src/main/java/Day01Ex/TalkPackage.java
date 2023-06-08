@@ -1,8 +1,8 @@
 package Day01Ex;
 
 public class TalkPackage extends ServicePackage implements CallService,SendService{
-    public int  talkTime;
-    public int smsCount;
+    public int  talkTime=500;
+    public int smsCount=30;
     //public double price;    继承父类中的属性
     public void showInfo(){}   //重写父类中的方法
 
